@@ -1,5 +1,5 @@
 # EmoSense
-Minor Project
+Minor Project Collaborated with https://github.com/Sanath-3946
 # Emotion Detection Project
 
 This project demonstrates the usage of various machine learning techniques to detect emotions from video files. The project includes facial emotion detection, audio transcription, and text emotion analysis.
